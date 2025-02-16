@@ -1,0 +1,27 @@
+body {
+    font-family:'Ebrima', sans-serif;
+}
+
+header, footer {
+    background-color:blueviolet;
+    color:#ffffff;
+    padding: 15px;
+}
+
+button {
+    font-family:'Courier New', Courier, monospace;
+    background-color:purple;
+    color: #ffffff;
+    font-size: larger;
+    font-weight: bold;
+}
+
+button:hover {
+    background-color:palevioletred;
+    cursor: pointer;
+}
+
+.introduction {
+    background-color: lightgray;
+    padding: 10px;
+}
